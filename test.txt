@@ -1,3 +1,0 @@
-This is a sentance
-	This is another
-This is the last
