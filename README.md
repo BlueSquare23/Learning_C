@@ -14,6 +14,9 @@ copied code) are noted in the comments of the specific programs.
 Sources:
 
 [The C Programming Language](https://github.com/kusti8/LearnCKR/blob/master/The%20C%20Programming%20Language%20-%202nd%20Edition%20-%20Ritchie%20Kernighan.pdf)
+
 [FreeCodeAcademy Course](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+
 [W3C C Exercises](https://www.w3resource.com/c-programming-exercises/)
+
 [W3C C Exercise Solutions](https://clc-wiki.net/wiki/K&R2_solutions)
