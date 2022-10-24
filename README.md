@@ -7,9 +7,11 @@ accessibility to myself and others. A large portion of the content in this
 repository is copied from the links below and meant to be used for
 demonstrations purposes. The copied works are in the public domain.
 
-The majority of programs written by me can be found within the w3cExercises
-directory and the Misc_C_Prog directory. The exceptions to this (i.e. any
-copied code) are noted in the comments of the specific programs. 
+This Repo contains two subdirectories for Notes and Exercises. The Notes dir
+contains code examples with explainations. These notes are mainly taken from
+"The C Programming Language" and from a freeCodeAcademy youtube course on C
+programming. The Exercises directory contains exercise examples from the w3c
+and HackerRank as well as some other samples in the Misc dir.
 
 Sources:
 
